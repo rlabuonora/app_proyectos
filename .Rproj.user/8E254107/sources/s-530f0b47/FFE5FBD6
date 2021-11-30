@@ -1,0 +1,24 @@
+{
+    "id": "FFE5FBD6",
+    "path": "~/app_proyectos/app.r",
+    "project_path": "app.r",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1638299331817.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "cursorPosition": "168,27",
+        "scrollLine": "161"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1638300526,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1638300526846,
+    "read_only": false,
+    "read_only_alternatives": []
+}
